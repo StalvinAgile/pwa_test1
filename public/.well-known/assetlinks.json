@@ -1,10 +1,15 @@
-[
-    {
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "xyz.appmaker.troftt",
-        "sha256_cert_fingerprints": ["2E:90:94:A3:BE:84:C9:26:74:F3:90:9A:35:2F:32:26:59:6C:63:9C:FF:98:E4:6A:27:00:45:7D:AE:20:4C:A6"]
-      }
+
+  [
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.netlify.pwa_testing_agile.twa",
+      "sha256_cert_fingerprints": [
+        "07:25:79:1E:7A:9C:BD:6B:77:80:B0:D8:4A:87:E6:0F:68:34:43:B9:89:6D:21:DB:08:A9:D3:0F:C8:43:B0:FA"
+      ]
     }
-  ]
+  }
+]
